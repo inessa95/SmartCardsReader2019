@@ -1,0 +1,7 @@
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\bin\Debug\Askcsc.dll
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\bin\Debug\AskReaderLib.dll
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\bin\Debug\AskReaderLib.pdb
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csprojAssemblyReference.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.csproj.CoreCompileInputs.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.dll
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskReaderLib\obj\Debug\AskReaderLib.pdb

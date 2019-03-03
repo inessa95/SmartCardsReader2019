@@ -1,0 +1,12 @@
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskREaderLib\bin\Debug\Askcsc.dll
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskREaderLib\bin\Debug\VbNETTestASKCSCDLL.exe
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskREaderLib\bin\Debug\VbNETTestASKCSCDLL.pdb
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskREaderLib\bin\Debug\VbNETTestASKCSCDLL.xml
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.Form1.resources
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.Resources.resources
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.vbproj.GenerateResource.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.vbproj.CoreCompileInputs.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.vbproj.CopyComplete
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.exe
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.xml
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\VBNETTestASKCSCDLL\obj\Debug\VbNETTestASKCSCDLL.pdb

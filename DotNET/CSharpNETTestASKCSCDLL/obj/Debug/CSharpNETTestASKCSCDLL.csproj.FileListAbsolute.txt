@@ -1,0 +1,10 @@
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskREaderLib\bin\Debug\CSharpNETTestASKCSCDLL.exe
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\AskREaderLib\bin\Debug\CSharpNETTestASKCSCDLL.pdb
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.csprojAssemblyReference.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.Form1.resources
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.Properties.Resources.resources
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.csproj.GenerateResource.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.csproj.CoreCompileInputs.cache
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.csproj.CopyComplete
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.exe
+D:\PolytechNice\SmartCard\Kit Devt\ASKCSC_DLL\DotNET\CSharpNETTestASKCSCDLL\obj\Debug\CSharpNETTestASKCSCDLL.pdb
